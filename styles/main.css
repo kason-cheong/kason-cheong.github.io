@@ -47,6 +47,12 @@ td, th {
   text-align: left;
   padding: 8px;
 }
+.blog-box {
+  display: inline-block;
+  width: 60vw;
+  margin-left: 10vw;
+  margin-bottom: 10vh;
+}
 .default-text {
   color: rgb(128, 128, 128);
   font-size: 20px;
